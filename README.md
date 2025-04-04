@@ -127,8 +127,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 MILLION MULUGETA
-- Telegram: [@your_telegram_username](https://t.me/miilla021)
-- GitHub: [@your_github_username](https://github.com/million-art)
+- Telegram: [@miilla021](https://t.me/miilla021)
+- GitHub: [@million-art](https://github.com/million-art)
 
 ## 🙏 Acknowledgments
 
